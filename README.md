@@ -5,6 +5,7 @@ GeishaStudy
 
 ## Repositories
 
+* [Scalachant Example](https://github.com/geishatokyo/scalachant-example) - Scala.js & Enchant.js
 * [Scalappy Bird](https://github.com/geishatokyo/scalappybird) - Scala & Android SDK
 * [TicTacToe Game](https://github.com/geishatokyo/scala-android-tictactoe) - Scala & Android SDK
 * [Twitter Client](https://github.com/geishatokyo/playexample) - PlayFramework
