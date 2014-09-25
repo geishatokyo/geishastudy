@@ -9,6 +9,10 @@ GeishaStudy
 * [TicTacToe Game](https://github.com/geishatokyo/scala-android-tictactoe) - Scala & Android SDK
 * [Twitter Client](https://github.com/geishatokyo/playexample) - PlayFramework
 
+## Documents
+
+* [Scala Setup](ScalaSetup.md)
+
 ## Links
 
 * [Home Page](http://www.geishatokyo.com)
