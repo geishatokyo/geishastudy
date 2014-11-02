@@ -5,6 +5,7 @@ GeishaStudy
 
 ## Repositories
 
+* [Swift SpriteKit Sample](https://github.com/geishatokyo/swift-spritekit-sample) - Swift
 * [Scalachant Example](https://github.com/geishatokyo/scalachant-example) - Scala.js & Enchant.js
 * [Scalappy Bird](https://github.com/geishatokyo/scalappybird) - Scala & Android SDK
 * [TicTacToe Game](https://github.com/geishatokyo/scala-android-tictactoe) - Scala & Android SDK
